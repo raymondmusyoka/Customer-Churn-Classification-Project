@@ -92,9 +92,11 @@ There is a significant relationship between the type of internet service (DSL, F
 
 5. What is the relationship between monthly charges and total charges and customer churn?
 
+![Capture PNG churn dashboard](https://github.com/raymondmusyoka/Customer-Churn-Classification-Project/assets/110515954/fef80513-71bc-480d-b244-77cdca45a256)
 ## Power BI Dashboard
 
 [Power BI Link](https://app.powerbi.com/links/A5z8qLU0yR?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
+
 
 Scope and Constraints
 Scope:
