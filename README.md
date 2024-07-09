@@ -1,4 +1,5 @@
-# Customer-Churn-Classification-Project
+#![Customer_Churn_Prediction_Models_in_Machine_Learning](https://github.com/raymondmusyoka/Customer-Churn-Classification-Project/assets/110515954/c8cc5488-071a-42f5-9dff-16d472bf9b0b)
+ Customer-Churn-Classification-Project
 
 **Enhancing Customer Retention through Churn Prediction: A Machine Learning Approach to Classification Models**
 
