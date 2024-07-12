@@ -112,6 +112,8 @@ pip install -r requirements.txt
 git clone https://github.com/raymondmusyoka/Customer-Churn-Classification-Project.git
 cd Churn-Prediction-Enhancing-Retention-with-Machine-Learning
 jupyter notebook main.ipynb
+
+LinkedIn Article [LinkedIn Article](https://www.linkedin.com/feed/update/urn:li:activity:7216767859434090497/)
 **Technologies Used**
 - Python: Programming language used for data analysis and modeling.
 - Pandas: For data manipulation and analysis.
